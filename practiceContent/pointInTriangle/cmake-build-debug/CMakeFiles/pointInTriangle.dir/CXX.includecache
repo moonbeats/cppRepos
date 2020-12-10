@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cppRepos/practiceContent/pointInTriangle/main.cpp
+iostream
+-
+cmath
+D:/cppRepos/practiceContent/pointInTriangle/cmath
+
