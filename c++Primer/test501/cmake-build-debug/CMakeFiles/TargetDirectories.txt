@@ -1,0 +1,3 @@
+D:/cppRepos/c++Primer/test501/cmake-build-debug/CMakeFiles/test501.dir
+D:/cppRepos/c++Primer/test501/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cppRepos/c++Primer/test501/cmake-build-debug/CMakeFiles/rebuild_cache.dir

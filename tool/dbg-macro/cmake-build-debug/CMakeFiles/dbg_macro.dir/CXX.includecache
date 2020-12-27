@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cppRepos/tool/dbg-macro/dbg.h
+algorithm
+-
+chrono
+-
+ctime
+-
+iomanip
+-
+ios
+-
+iostream
+-
+memory
+-
+sstream
+-
+string
+-
+tuple
+-
+type_traits
+-
+vector
+-
+unistd.h
+-
+optional
+-
+variant
+-
+
+D:/cppRepos/tool/dbg-macro/main.cpp
+vector
+-
+dbg.h
+D:/cppRepos/tool/dbg-macro/dbg.h
+

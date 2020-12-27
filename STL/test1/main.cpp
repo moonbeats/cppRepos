@@ -1,4 +1,9 @@
 #include <iostream>
+#include <array>
+#include <ctime>
+#include <cstdlib>
+
+#define ASIZE 500000;
 using std::cin;
 using std::cout;
 using std::string;
@@ -34,6 +39,11 @@ int compareStrings(const void * a,const  void* b)
         return -1;
     else
         return 0;
+}
+void test_array()
+{
+    cout<<"\ntest_array()..............\n";
+
 }
 int main() {
     
