@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cppRepos/STL/TEST/Lib/redbud/io/color.h
+../platform.h
+D:/cppRepos/STL/TEST/Lib/redbud/platform.h
+unistd.h
+-
+cstring
+-
+Windows.h
+-
+io.h
+-
+cstdlib
+-
+iostream
+-
+type_traits
+-
+
+D:/cppRepos/STL/TEST/Lib/redbud/platform.h
+
+D:/cppRepos/STL/TEST/main.cpp
+iostream
+-
+array
+-
+ctime
+-
+cstdlib
+-
+vector
+-
+Lib/redbud/io/color.h
+D:/cppRepos/STL/TEST/Lib/redbud/io/color.h
+

@@ -1,0 +1,3 @@
+D:/cppRepos/STL/list/sLinkList/cmake-build-debug/CMakeFiles/sLinkList.dir
+D:/cppRepos/STL/list/sLinkList/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cppRepos/STL/list/sLinkList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"E:\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\sLinkList.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\sLinkList.dir/objects.a @CMakeFiles\sLinkList.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\sLinkList.dir/objects.a -Wl,--no-whole-archive  -o sLinkList.exe -Wl,--out-implib,libsLinkList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sLinkList.dir\linklibs.rsp
