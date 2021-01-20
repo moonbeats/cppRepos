@@ -1,0 +1,2 @@
+D:\cppRepos\c++Boost\01模板\Debug\01模板.exe
+D:\cppRepos\c++Boost\01模板\Debug\01模板.pdb
