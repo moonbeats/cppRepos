@@ -1,0 +1,2 @@
+D:\cppRepos\c++Boost\12 MyArray\Debug\12 MyArray.exe
+D:\cppRepos\c++Boost\12 MyArray\Debug\12 MyArray.pdb
