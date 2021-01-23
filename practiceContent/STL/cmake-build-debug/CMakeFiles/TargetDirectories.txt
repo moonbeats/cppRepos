@@ -1,3 +1,0 @@
-D:/cppRepos/practiceContent/STL/cmake-build-debug/CMakeFiles/STL.dir
-D:/cppRepos/practiceContent/STL/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cppRepos/practiceContent/STL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
