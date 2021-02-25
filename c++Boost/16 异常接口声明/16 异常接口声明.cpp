@@ -13,7 +13,7 @@ void func02() throw() //任何类型都不能抛出
 	throw - 1;
 }
 
-void func03() throw() //可以抛出任何类型的异常
+void func03() //可以抛出任何类型的异常
 {
 	throw - 1;
 }
