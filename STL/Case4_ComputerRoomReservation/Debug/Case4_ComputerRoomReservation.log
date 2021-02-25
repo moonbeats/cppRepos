@@ -1,0 +1,9 @@
+﻿  main.cpp
+  manager.cpp
+  orderFile.cpp
+  student.cpp
+  teacher.cpp
+D:\DataStructure\STL\Case4_ComputerRoomReservation\student.cpp(251,29): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+D:\DataStructure\STL\Case4_ComputerRoomReservation\teacher.cpp(117,29): warning C4018: “<=”: 有符号/无符号不匹配
+  Case4_ComputerRoomReservation.vcxproj -> D:\DataStructure\STL\Case4_ComputerRoomReservation\Debug\Case4_ComputerRoomReservation.exe
