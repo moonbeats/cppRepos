@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cppRepos/STL/allocator_test/main.cpp
+bits/stdc++.h
+-
+ext/array_allocator.h
+-
+ext/mt_allocator.h
+-
+ext/debug_allocator.h
+-
+ext/pool_allocator.h
+-
+ext/bitmap_allocator.h
+-
+ext/malloc_allocator.h
+-
+ext/new_allocator.h
+-
+

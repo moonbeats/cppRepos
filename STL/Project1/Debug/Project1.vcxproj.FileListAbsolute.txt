@@ -1,0 +1,2 @@
+D:\cppRepos\STL\Project1\Debug\Project1.exe
+D:\cppRepos\STL\Project1\Debug\Project1.pdb

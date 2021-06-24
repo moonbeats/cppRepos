@@ -1,0 +1,3 @@
+D:/cppRepos/STL/allocator_test/cmake-build-debug/CMakeFiles/allocator_test.dir
+D:/cppRepos/STL/allocator_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cppRepos/STL/allocator_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

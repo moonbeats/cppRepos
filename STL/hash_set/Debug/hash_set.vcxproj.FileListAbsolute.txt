@@ -1,0 +1,2 @@
+D:\cppRepos\STL\hash_set\Debug\hash_set.exe
+D:\cppRepos\STL\hash_set\Debug\hash_set.pdb
