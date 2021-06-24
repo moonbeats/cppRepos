@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../path/hello.cpp
+iostream
+-
+
+D:/cppRepos/c++Boost/untitled/main.cpp
+iostream
+-
+hello.cpp
+D:/cppRepos/c++Boost/untitled/hello.cpp
+

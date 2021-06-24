@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\cppRepos\c++Boost\字符串分割\main.cpp(10,22): error C2660: “strtok_s”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(64,29): message : 参见“strtok_s”的声明
+D:\cppRepos\c++Boost\字符串分割\main.cpp(14,1): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message : 参见“strtok”的声明

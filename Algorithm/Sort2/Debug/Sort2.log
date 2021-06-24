@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\cppRepos\algorithm\Sort2\main.cpp(33,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\cppRepos\algorithm\Sort2\main.cpp(35,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\cppRepos\algorithm\Sort2\main.cpp(80,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\cppRepos\algorithm\Sort2\main.cpp(187,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\cppRepos\algorithm\Sort2\main.cpp(202,3): warning C4002: 类函数宏的调用“assert”参数过多
+D:\cppRepos\algorithm\Sort2\main.cpp(204,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Sort2.vcxproj -> D:\cppRepos\algorithm\Sort2\Debug\Sort2.exe

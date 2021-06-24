@@ -1,3 +1,0 @@
-D:/cppRepos/tool/dbg-macro/cmake-build-debug/CMakeFiles/dbg_macro.dir
-D:/cppRepos/tool/dbg-macro/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cppRepos/tool/dbg-macro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

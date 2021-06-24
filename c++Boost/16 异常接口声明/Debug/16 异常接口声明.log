@@ -2,7 +2,5 @@
 D:\cppRepos\c++Boost\16 异常接口声明\16 异常接口声明.cpp(7,35): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
 D:\cppRepos\c++Boost\16 异常接口声明\16 异常接口声明.cpp(13,1): warning C4297: “func02”: 假定函数不引发异常，但确实发生了
 D:\cppRepos\c++Boost\16 异常接口声明\16 异常接口声明.cpp(13,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
-D:\cppRepos\c++Boost\16 异常接口声明\16 异常接口声明.cpp(18,1): warning C4297: “func03”: 假定函数不引发异常，但确实发生了
-D:\cppRepos\c++Boost\16 异常接口声明\16 异常接口声明.cpp(18,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
 D:\cppRepos\c++Boost\16 异常接口声明\16 异常接口声明.cpp(30,13): warning C4101: “e”: 未引用的局部变量
   16 异常接口声明.vcxproj -> D:\cppRepos\c++Boost\16 异常接口声明\Debug\16 异常接口声明.exe

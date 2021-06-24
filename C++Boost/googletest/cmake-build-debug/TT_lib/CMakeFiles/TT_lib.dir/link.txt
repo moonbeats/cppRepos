@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libTT_lib.a  CMakeFiles/TT_lib.dir/Calculator.cpp.obj
+C:\MinGW\bin\ranlib.exe libTT_lib.a

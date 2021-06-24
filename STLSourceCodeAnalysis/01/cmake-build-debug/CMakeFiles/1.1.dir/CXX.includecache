@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cppRepos/STLSourceCodeAnalysis/01/1config-temporary-object.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+
